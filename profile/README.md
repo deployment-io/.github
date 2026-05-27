@@ -31,8 +31,9 @@ Prefer to drive the work yourself? Connect your own coding agent — **Claude Co
 
 The parts that touch your infrastructure are open — audit them, fork them, run your own:
 
-- **[skills](https://github.com/deployment-io/skills)** — the SKILL.md-compliant skill that teaches any coding agent how to deploy on Deployment.io (MIT).
-- **Open-source runner** — the runner that executes builds and deploys inside your own cloud. See the pinned repositories below.
+- **[runner](https://github.com/deployment-io/runner)** — the runner that executes builds, deploys, and agent jobs inside your own cloud.
+- **[agentbox](https://github.com/deployment-io/agentbox)** — runs AI coding agents headlessly in Docker with a predictable, pluggable contract.
+- **[skills](https://github.com/deployment-io/skills)** — the SKILL.md-compliant skill that teaches any coding agent how to deploy on Deployment.io.
 
 ## Two ways to use it
 
