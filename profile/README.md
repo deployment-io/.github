@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://deployment.io/images/deployment-logo.png" alt="Deployment.io" height="64" />
-  <h1>Deployment.io</h1>
   <p><strong>The AI that runs your engineering. End to end.</strong></p>
   <p>
     <a href="https://deployment.io">Website</a> ·
@@ -11,7 +10,6 @@
   </p>
 </div>
 
----
 
 Your coding agents got fast. Turning that code into shipped software didn't keep up — planning the work, coordinating changes across repos, standing up infrastructure, verifying everything works, and rolling out safely is still manual.
 
